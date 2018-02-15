@@ -1,1 +1,1 @@
-web: gunicorn project.wsgi --log-file
+web: gunicorn pepadot.wsgi --log-file

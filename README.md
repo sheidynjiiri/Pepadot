@@ -1,2 +1,0 @@
-# Pepadot
-Data Analysis Redefined
